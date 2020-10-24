@@ -35,10 +35,10 @@ export class Professional
     };
 
  
-            public getprint()
+            public toString()
             
                 {  
-                    console.log(
+                    return (
                         "Name-"+this.name+"\n"+
                         "Age-"+this.age+"\n"+
                         "Genre-"+this.genre+"\n"+
@@ -55,6 +55,7 @@ export class Professional
                                            
                         
                 };
+
 
 
             
