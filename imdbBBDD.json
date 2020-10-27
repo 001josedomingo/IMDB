@@ -1,0 +1,22 @@
+{
+    "peliculas": [
+        {
+            "title": "Avatar",
+            "releaseYear": 2009,
+            "nacionality": "USA",
+            "genre": "Ciencia ficción"
+        },
+        {
+            "title": "Titanic",
+            "releaseYear": 1997,
+            "nacionality": "USA",
+            "genre": "Drama"
+        },
+        {
+            "title": "Indiana Jones y la última cruzada",
+            "releaseYear": 1989,
+            "nacionality": "USA",
+            "genre": "Aventuras"
+        }
+    ]
+}
